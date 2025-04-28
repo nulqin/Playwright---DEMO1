@@ -1,0 +1,20 @@
+{
+  "name": "playwright-cucumber-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cucumber/cucumber": "latest",
+    "@playwright/test": "^1.49.1",
+    "playwright": "^1.51.1"
+  },
+  "devDependencies": {
+    "multiple-cucumber-html-reporter": "^3.9.2"
+  }
+}
