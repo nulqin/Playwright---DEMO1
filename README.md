@@ -27,7 +27,7 @@ This Project is built using :
 Make sure you have installed:
 - Node.js (preferably the LTS version)
 - npm
-- Install node_modules
+- Install **node_modules**
 
 
 ## How to Run the Project
